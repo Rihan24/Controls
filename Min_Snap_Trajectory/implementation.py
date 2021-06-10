@@ -1,3 +1,5 @@
+#THIS CODE WORKS FOR 4 WAYPOINTS IN X,Y,Z only
+
 from math import factorial as f
 import numpy as np
 from scipy.linalg import block_diag
